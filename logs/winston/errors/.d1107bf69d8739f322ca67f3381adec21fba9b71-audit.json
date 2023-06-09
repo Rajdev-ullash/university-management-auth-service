@@ -94,6 +94,16 @@
             "date": 1686240579583,
             "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\errors\\um-2023-08-06-22-error.log",
             "hash": "91150e53deb7ec85fba242c1217fd703f05b80405dc0f65ef088040b17667578"
+        },
+        {
+            "date": 1686284765879,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\errors\\um-2023-09-06-10-error.log",
+            "hash": "fbdf680213815f33c709a3743f713edc1b2803eb9577ce4af6782582ffea38a6"
+        },
+        {
+            "date": 1686288188295,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\errors\\um-2023-09-06-11-error.log",
+            "hash": "0fb9aababfed728befc3d51f808847ed320b3ff53c924a40aaa3f5f61fa2c609"
         }
     ],
     "hashType": "sha256"
