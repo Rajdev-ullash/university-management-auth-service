@@ -1,185 +1,250 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\.8425130116132829de19b96da3ba50bbb2dd08c9-audit.json",
-  "files": [
-    {
-      "date": 1685704917510,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-02-06-17-success.log",
-      "hash": "263c29eb4eef6a0174157d44204405bd0fc3d3f8d3a2c4116beca83aa9c82252"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1685707225112,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-02-06-18-success.log",
-      "hash": "3027bfcfa2b363050ce1384e2812504aab780b15ea6c8e4a13c981dae88d903e"
-    },
-    {
-      "date": 1685799653516,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-03-06-19-success.log",
-      "hash": "0a577f23c28593e401952a68f952b94e2769d9c9ba49918e54248bfdcd8e4500"
-    },
-    {
-      "date": 1685800854825,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-03-06-20-success.log",
-      "hash": "667a0628351426319d1e237ad3bacd48bf6657c0fd7851eaa3457fc63e878b3b"
-    },
-    {
-      "date": 1686057979901,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-06-19-success.log",
-      "hash": "c864102637f699a8bbe5dfffc6fae695b96f52b959b58e2bd5a09a7eeb2c0c22"
-    },
-    {
-      "date": 1686066351933,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-06-21-success.log",
-      "hash": "88dab5f0892dd36903c88e312bdd87d05b4be34b27a7623dee8fd19cbeb0a8a1"
-    },
-    {
-      "date": 1686067230024,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-06-22-success.log",
-      "hash": "34670c494095a4247ea791c25529ed8268c456eb7fbddbdb4f5a3cf10a6a7eb7"
-    },
-    {
-      "date": 1686072337842,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-06-23-success.log",
-      "hash": "0f21a49ba8e479cc38af41f51e821579b948e3a6979a705a5a3d98101540e17b"
-    },
-    {
-      "date": 1686140761694,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-07-06-18-success.log",
-      "hash": "ebe2e0f68463d4a4333fbc5c0df803e672719ba1cfcf93e100cf272ef2c56689"
-    },
-    {
-      "date": 1686142891888,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-07-06-19-success.log",
-      "hash": "14b8d3e89761a0ff7b635f3660fd2bd072de2dca56fcfccd85c5e615a00850a5"
-    },
-    {
-      "date": 1686199491570,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-10-success.log",
-      "hash": "56e74ac202f9de8a77b2cd20e35224d38a9084fafe02315c6a36c1e7edccab1c"
-    },
-    {
-      "date": 1686201596044,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-11-success.log",
-      "hash": "3393a61438d39530cec1cd83965a7607951a309944bcae4ee87103dad2b3ed27"
-    },
-    {
-      "date": 1686207468842,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-12-success.log",
-      "hash": "711a65f7e209671f65501dee02c3b9ae070855ac4165312174692134ddfb4c7e"
-    },
-    {
-      "date": 1686208692719,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-13-success.log",
-      "hash": "7cef41903a55cfb74631a079c89ec66d79b13c46499c0fc88fc1a2b1f936dc2d"
-    },
-    {
-      "date": 1686226189248,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-18-success.log",
-      "hash": "90691b66b3cfd0654cefff4f46bd2a8d5db1d871c7f5110c233fb703a097e49c"
-    },
-    {
-      "date": 1686234053578,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-20-success.log",
-      "hash": "eec56df8267d57b464ab0a2b2765eaecd5cbd4d4618ce6c25af28b363df88b50"
-    },
-    {
-      "date": 1686236459245,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-21-success.log",
-      "hash": "9899ee94480230d7c7a544330b1d0cfdabe68efb4d25396a70a6cca9974ccb33"
-    },
-    {
-      "date": 1686240579579,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-22-success.log",
-      "hash": "228dfa0e421eb0f78620f4aaac286305aef529179f94c243a3804e51488425b9"
-    },
-    {
-      "date": 1686284765842,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-09-06-10-success.log",
-      "hash": "3f145912a798746692bd79f9f216ddf22279dabccd2759fca97150970635a5a3"
-    },
-    {
-      "date": 1686288188284,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-09-06-11-success.log",
-      "hash": "8c64f45c100e98de1acfae5f54b01cdc3cd868053734a49a6681d2c2c233c880"
-    },
-    {
-      "date": 1686408058153,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-10-06-20-success.log",
-      "hash": "122dd6d344a7a731800efa02a93d9e1731fe29e4d745d38b6ba1cabc2d932dd7"
-    },
-    {
-      "date": 1686409200859,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-10-06-21-success.log",
-      "hash": "db5fa2f2a95f729dd9daa214b77cdbd3afe77c177bf9c15a08685d7721d99c26"
-    },
-    {
-      "date": 1686499368374,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-11-06-22-success.log",
-      "hash": "595265a07c76a10a8176e60511c8d4395177e1523d7c462dba881cf6f6498e30"
-    },
-    {
-      "date": 1686503730704,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-11-06-23-success.log",
-      "hash": "a5cbc44523efad2aa8709b92224d4fc042d34a761e1fec99d1ad56ddd970dfdb"
-    },
-    {
-      "date": 1686569431714,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-12-06-17-success.log",
-      "hash": "0d09c15f8c8bf12b17b1e5158ba6f8cca700a327142f88daf9eda236b7add3b2"
-    },
-    {
-      "date": 1686571571220,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-12-06-18-success.log",
-      "hash": "8ede083999db1160335d3e7f7584efb6c7022ec37a56343f71f2dbcaae371295"
-    },
-    {
-      "date": 1686666953918,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-13-06-20-success.log",
-      "hash": "0aff21d8c2ea47e449ceb66f4277b5f6b29e889965f5588cb65d42b5f9a152ec"
-    },
-    {
-      "date": 1686668587734,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-13-06-21-success.log",
-      "hash": "94c00c83611ae723bab3a164ce424fbaea54cba343807f0cdeb97e5f838b6a7c"
-    },
-    {
-      "date": 1686717007860,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-10-success.log",
-      "hash": "d44aa0fa443ec01b7ced9fb6c4345d047ad4ee84c85b0386022725d119ec274b"
-    },
-    {
-      "date": 1686718801009,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-11-success.log",
-      "hash": "3853b6d4d81954e023bf3a1d9b81302924d8f548f83325e41edb2a4bcc5ea56b"
-    },
-    {
-      "date": 1686748335693,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-19-success.log",
-      "hash": "b242a9030372bdf631f5fdadcc97a5dac9d6d91801bd2aa7332fac02a61c3421"
-    },
-    {
-      "date": 1686753271073,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-20-success.log",
-      "hash": "39fe8701549fa6818a7dc0991d20c5f8cf0f8b3cd406b05849281e25894c8deb"
-    },
-    {
-      "date": 1686754812467,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-21-success.log",
-      "hash": "1fb3713f382f2a151dd0574840be9f08ad7eda1ec711a2833ad4a17b4f20a715"
-    },
-    {
-      "date": 1686764164851,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-23-success.log",
-      "hash": "eb6602205a2a6d461304944200a1a687a1fd43bb9d9c1435a4643d3329dcc4d7"
-    },
-    {
-      "date": 1686769751512,
-      "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-15-06-01-success.log",
-      "hash": "94ec89bed75ed275395b80f19c8cd73607302214ae55e8abf9c11f242cab7d9e"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\.8425130116132829de19b96da3ba50bbb2dd08c9-audit.json",
+    "files": [
+        {
+            "date": 1685799653516,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-03-06-19-success.log",
+            "hash": "0a577f23c28593e401952a68f952b94e2769d9c9ba49918e54248bfdcd8e4500"
+        },
+        {
+            "date": 1685800854825,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-03-06-20-success.log",
+            "hash": "667a0628351426319d1e237ad3bacd48bf6657c0fd7851eaa3457fc63e878b3b"
+        },
+        {
+            "date": 1686057979901,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-06-19-success.log",
+            "hash": "c864102637f699a8bbe5dfffc6fae695b96f52b959b58e2bd5a09a7eeb2c0c22"
+        },
+        {
+            "date": 1686066351933,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-06-21-success.log",
+            "hash": "88dab5f0892dd36903c88e312bdd87d05b4be34b27a7623dee8fd19cbeb0a8a1"
+        },
+        {
+            "date": 1686067230024,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-06-22-success.log",
+            "hash": "34670c494095a4247ea791c25529ed8268c456eb7fbddbdb4f5a3cf10a6a7eb7"
+        },
+        {
+            "date": 1686072337842,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-06-23-success.log",
+            "hash": "0f21a49ba8e479cc38af41f51e821579b948e3a6979a705a5a3d98101540e17b"
+        },
+        {
+            "date": 1686140761694,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-07-06-18-success.log",
+            "hash": "ebe2e0f68463d4a4333fbc5c0df803e672719ba1cfcf93e100cf272ef2c56689"
+        },
+        {
+            "date": 1686142891888,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-07-06-19-success.log",
+            "hash": "14b8d3e89761a0ff7b635f3660fd2bd072de2dca56fcfccd85c5e615a00850a5"
+        },
+        {
+            "date": 1686199491570,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-10-success.log",
+            "hash": "56e74ac202f9de8a77b2cd20e35224d38a9084fafe02315c6a36c1e7edccab1c"
+        },
+        {
+            "date": 1686201596044,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-11-success.log",
+            "hash": "3393a61438d39530cec1cd83965a7607951a309944bcae4ee87103dad2b3ed27"
+        },
+        {
+            "date": 1686207468842,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-12-success.log",
+            "hash": "711a65f7e209671f65501dee02c3b9ae070855ac4165312174692134ddfb4c7e"
+        },
+        {
+            "date": 1686208692719,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-13-success.log",
+            "hash": "7cef41903a55cfb74631a079c89ec66d79b13c46499c0fc88fc1a2b1f936dc2d"
+        },
+        {
+            "date": 1686226189248,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-18-success.log",
+            "hash": "90691b66b3cfd0654cefff4f46bd2a8d5db1d871c7f5110c233fb703a097e49c"
+        },
+        {
+            "date": 1686234053578,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-20-success.log",
+            "hash": "eec56df8267d57b464ab0a2b2765eaecd5cbd4d4618ce6c25af28b363df88b50"
+        },
+        {
+            "date": 1686236459245,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-21-success.log",
+            "hash": "9899ee94480230d7c7a544330b1d0cfdabe68efb4d25396a70a6cca9974ccb33"
+        },
+        {
+            "date": 1686240579579,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-22-success.log",
+            "hash": "228dfa0e421eb0f78620f4aaac286305aef529179f94c243a3804e51488425b9"
+        },
+        {
+            "date": 1686284765842,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-09-06-10-success.log",
+            "hash": "3f145912a798746692bd79f9f216ddf22279dabccd2759fca97150970635a5a3"
+        },
+        {
+            "date": 1686288188284,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-09-06-11-success.log",
+            "hash": "8c64f45c100e98de1acfae5f54b01cdc3cd868053734a49a6681d2c2c233c880"
+        },
+        {
+            "date": 1686408058153,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-10-06-20-success.log",
+            "hash": "122dd6d344a7a731800efa02a93d9e1731fe29e4d745d38b6ba1cabc2d932dd7"
+        },
+        {
+            "date": 1686409200859,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-10-06-21-success.log",
+            "hash": "db5fa2f2a95f729dd9daa214b77cdbd3afe77c177bf9c15a08685d7721d99c26"
+        },
+        {
+            "date": 1686499368374,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-11-06-22-success.log",
+            "hash": "595265a07c76a10a8176e60511c8d4395177e1523d7c462dba881cf6f6498e30"
+        },
+        {
+            "date": 1686503730704,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-11-06-23-success.log",
+            "hash": "a5cbc44523efad2aa8709b92224d4fc042d34a761e1fec99d1ad56ddd970dfdb"
+        },
+        {
+            "date": 1686569431714,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-12-06-17-success.log",
+            "hash": "0d09c15f8c8bf12b17b1e5158ba6f8cca700a327142f88daf9eda236b7add3b2"
+        },
+        {
+            "date": 1686571571220,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-12-06-18-success.log",
+            "hash": "8ede083999db1160335d3e7f7584efb6c7022ec37a56343f71f2dbcaae371295"
+        },
+        {
+            "date": 1686666953918,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-13-06-20-success.log",
+            "hash": "0aff21d8c2ea47e449ceb66f4277b5f6b29e889965f5588cb65d42b5f9a152ec"
+        },
+        {
+            "date": 1686668587734,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-13-06-21-success.log",
+            "hash": "94c00c83611ae723bab3a164ce424fbaea54cba343807f0cdeb97e5f838b6a7c"
+        },
+        {
+            "date": 1686717007860,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-10-success.log",
+            "hash": "d44aa0fa443ec01b7ced9fb6c4345d047ad4ee84c85b0386022725d119ec274b"
+        },
+        {
+            "date": 1686718801009,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-11-success.log",
+            "hash": "3853b6d4d81954e023bf3a1d9b81302924d8f548f83325e41edb2a4bcc5ea56b"
+        },
+        {
+            "date": 1686748335693,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-19-success.log",
+            "hash": "b242a9030372bdf631f5fdadcc97a5dac9d6d91801bd2aa7332fac02a61c3421"
+        },
+        {
+            "date": 1686753271073,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-20-success.log",
+            "hash": "39fe8701549fa6818a7dc0991d20c5f8cf0f8b3cd406b05849281e25894c8deb"
+        },
+        {
+            "date": 1686754812467,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-21-success.log",
+            "hash": "1fb3713f382f2a151dd0574840be9f08ad7eda1ec711a2833ad4a17b4f20a715"
+        },
+        {
+            "date": 1686764164851,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-06-23-success.log",
+            "hash": "eb6602205a2a6d461304944200a1a687a1fd43bb9d9c1435a4643d3329dcc4d7"
+        },
+        {
+            "date": 1686769751512,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-15-06-01-success.log",
+            "hash": "94ec89bed75ed275395b80f19c8cd73607302214ae55e8abf9c11f242cab7d9e"
+        },
+        {
+            "date": 1686812086418,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-15-06-12-success.log",
+            "hash": "4167cafbd7ac6119f4a7c47fe4efe6b6f4fe232715d68a362e7c5f96c8f66f1f"
+        },
+        {
+            "date": 1686812633845,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-15-06-13-success.log",
+            "hash": "e1cffdbb1b0acfabc7186279c134adbb4f6b5ba56cc853255d0e78b6cde73847"
+        },
+        {
+            "date": 1686824828232,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-15-06-16-success.log",
+            "hash": "fe1c95e4c624dc47cd5d6b4bfba1a3d6b5be68e6361ce877ec5f43de44905071"
+        },
+        {
+            "date": 1686828929750,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-15-06-17-success.log",
+            "hash": "65e3840ad472d48d399361f41760b74c138d34dc0f547dff7e510bdb40b06425"
+        },
+        {
+            "date": 1686857398814,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-01-success.log",
+            "hash": "4a3bebb71526977a930380a8ebdf72172f9d09896f1a2cacb7c43ffe124ed7ca"
+        },
+        {
+            "date": 1686859664174,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-02-success.log",
+            "hash": "211a010c3b8f37ad4b6b63cda042ae868704b2c3ba2d94021b97dcaeacbda30d"
+        },
+        {
+            "date": 1686892640634,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-11-success.log",
+            "hash": "d4b5c7dabf1ac5c909705c94d6a2dcbe030926d3b8bcea2d740c5d3c3da1b712"
+        },
+        {
+            "date": 1686896666447,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-12-success.log",
+            "hash": "52960858c25cb3ba1d7aa075039237ba09af9876436df34870c09cc33b68a563"
+        },
+        {
+            "date": 1686899009867,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-13-success.log",
+            "hash": "b3f77a49ec070d6c3533517eeb70be5a6ccafbe62fad122007b770d5b8411af5"
+        },
+        {
+            "date": 1686904670401,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-14-success.log",
+            "hash": "ce109bf948116cdda8fdd4430ba4f169724bdf67e2224b60e8e594026d91d6c5"
+        },
+        {
+            "date": 1686912576900,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-16-success.log",
+            "hash": "682e0f46f04f2ec912d54d003b5a39ea902f54b575a8f0238fddc0bd4bf1ecf6"
+        },
+        {
+            "date": 1686913952737,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-17-success.log",
+            "hash": "147dcad9ecc042c7125cb8c40ce274509e68d1201de778c5f45accad0a8d84db"
+        },
+        {
+            "date": 1686934081057,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-22-success.log",
+            "hash": "1130eaa36332e076ecb930231fde0fdf51e04c2cd6f83a10821f2e2a0a86493f"
+        },
+        {
+            "date": 1686934805452,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-16-06-23-success.log",
+            "hash": "91b17c8fd710d2ea495069a3bdff62b1939c8afe96ddf336d6d601c70dbbaa8f"
+        },
+        {
+            "date": 1686939887912,
+            "name": "D:\\Next Level\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\um-2023-17-06-00-success.log",
+            "hash": "2c7dc8a56a1a9ff2b351f47e0aa0438491b7d5c0cbccab00741f4dbb6bcd2329"
+        }
+    ],
+    "hashType": "sha256"
 }
